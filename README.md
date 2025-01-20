@@ -1,14 +1,14 @@
 ![image](https://github.com/user-attachments/assets/2c55f86d-48b5-4d1b-869b-52d9193f476c)
 
-# Jan Mockups - Premium Jar Mockup Templates
+# Jar Mockups - Premium Jar Mockup Templates
 
-Welcome to the **Jan Mockups Repository**! This repository is a hub for designers, marketers, and branding professionals seeking high-quality mockup resources for jars of all types. Whether you're creating packaging designs for food, cosmetics, or other products, our **[Jan Mockups](https://www.mockupdaddy.com/jar-mockup)** collection offers top-tier templates to make your projects stand out.
+Welcome to the **Jar Mockups Repository**! This repository is a hub for designers, marketers, and branding professionals seeking high-quality mockup resources for jars of all types. Whether you're creating packaging designs for food, cosmetics, or other products, our **[Jar Mockups](https://www.mockupdaddy.com/jar-mockup)** collection offers top-tier templates to make your projects stand out.
 
 ---
 
-## 🎨 About Jan Mockups
+## 🎨 About Jar Mockups
 
-**Jan Mockups** are specifically curated for designers who want realistic and customizable jar mockup templates. Our templates are perfect for showcasing:
+**Jar Mockups** are specifically curated for designers who want realistic and customizable jar mockup templates. Our templates are perfect for showcasing:
 
 - **Food Products:** Jams, honey, sauces, spices, and more.
 - **Cosmetic Products:** Creams, scrubs, and other beauty items.
@@ -27,7 +27,7 @@ Each mockup is crafted to ensure high resolution, ease of use, and attention to 
 - **Diverse Styles:** Choose from a wide variety of jar sizes, shapes, and settings to suit your project needs.
 - **Professional Quality:** Impress your clients with mockups that look like professional product photos.
 
-Explore the full collection of Jan Mockups on our website.
+Explore the full collection of Jar Mockups on our website.
 
 ---
 
@@ -39,7 +39,7 @@ At [MockupDaddy.com](https://www.mockupdaddy.com/), we are committed to deliveri
 - User-friendly designs that save you time and effort.
 - Regular updates with fresh, innovative mockups.
 
-By choosing Jan Mockups, you're choosing a seamless design experience that ensures your projects shine.
+By choosing Jar Mockups, you're choosing a seamless design experience that ensures your projects shine.
 
 ![image](https://github.com/user-attachments/assets/3a484626-bca2-4a97-b2e8-e0dac2c6607d)
 
@@ -63,4 +63,4 @@ We welcome contributions to this repository. If you have suggestions, feel free 
 
 ---
 
-Thank you for visiting the Jan Mockups Repository! Explore our resources and let your creativity flow with MockupDaddy.
+Thank you for visiting the Jar Mockups Repository! Explore our resources and let your creativity flow with MockupDaddy.
